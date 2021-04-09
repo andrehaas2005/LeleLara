@@ -1,0 +1,18 @@
+PODS:
+  - Tanjiro (1.0.1):
+    - Tanjiro/Core (= 1.0.1)
+  - Tanjiro/Core (1.0.1)
+
+DEPENDENCIES:
+  - Tanjiro
+
+SPEC REPOS:
+  trunk:
+    - Tanjiro
+
+SPEC CHECKSUMS:
+  Tanjiro: 717b55a98bb6ccf535d032176a2b2d73ff0e03b5
+
+PODFILE CHECKSUM: 8621186f0799742834c5d53356f6142534416dc7
+
+COCOAPODS: 1.10.0.rc.1
